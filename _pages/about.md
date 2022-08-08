@@ -12,11 +12,11 @@ I am looking for a postdoctoral position about in **Computer Vision or related f
 I did my Ph.D. from September 2018 to June 2021 at the School of Informatics, in Xiamen University, supervised by Professor Cuihua Li(李翠华教授) and co-supervised by Professor Yanyun Qu(曲延云教授). My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision,  point cloud semantic segmentation. (2) **Machine Learning**: weakly-supervised learning, unsupervised learning, and transfer learning.
 
 _______________________________________________________________________________________________________
+
 <h3>
   <a name="Publications"></a> Selected Publications
 </h3>
 [Please visit [my google scholar profile](https://scholar.google.com/citations?user=KOL2dMwAAAAJ&hl=en&oi=ao) for the full publication list.]
-
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
@@ -86,26 +86,12 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________
 
-
-<h3>
-  <a name="intership"></a> Academic Experience
-</h3>
-<div class="mini">
-      <ul>
-       <li>Research Fellow. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. April 2021 - July 2022.</li>
-       <li>Research Associate. <a>Computer Vision and Robotic Perception (CVRP) Laboratory</a>, National University of Singapore. January 2021 - March 2021.</li>
-       <li>Research Assistant. <a href="https://nextcenter.org/">NExT++ Rearch Center</a>, National University of Singapore. August 2015 - December 2016.</li>
-      </ul>
-</div>
-
-
-_______________________________________________________________________________________________________
 <h3>
   <a name="services"></a> Academic Services
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>Conference Reviewer</strong>: CVPR, ICML, NeruIPS</li>
+  <li> <strong>Conference Reviewer</strong>: CVPR, ICML, NeruIPS, AAAI </li>
   <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Artificial Intelligence</li>
   </ul>
 </div>
