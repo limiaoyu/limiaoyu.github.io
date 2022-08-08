@@ -33,7 +33,7 @@ ________________________________________________________________________________
                       <br>
                       <strong>Yachao Zhang</strong>, Yanyun Qu, Zhonghao Li, Shanshan Zheng, Cuihua Li. 
                       <br>
-                      <em>IEEE Conference on International Conference on Computer Vision, (ICCV 2021)</i>
+                      <em>IEEE Conference on International Conference on Computer Vision, (ICCV 2021)</em>
                       <br>
                       [<a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Perturbed_Self-Distillation_Weakly_Supervised_Large-Scale_Point_Cloud_Semantic_Segmentation_ICCV_2021_paper.html">Paper</a>][<a href="https://github.com/Yachao-Zhang/PSD">Code</a>]
               </td>
@@ -61,9 +61,9 @@ ________________________________________________________________________________
                     <br>
                     <strong>Yachao Zhang</strong>,Yuan Xie, Zhizhong Zhang, Cuihua Li, Yanyun Qu.
                     <br>
-                    <em>ACM International Conference on Multimedia (MM 2022) 
+                    <em>ACM International Conference on Multimedia (MM 2022)</em>
                     <br>
-                    </em><i style="color:#e74d3c">Accepted, waiting for publication</i>
+                    <i style="color:#e74d3c">Accepted, waiting for publication</i>
                     </td>
                 </tr>
                     <tr>
@@ -77,9 +77,9 @@ ________________________________________________________________________________
                     <br>
                             (* indicates equal contribution)
                     <br>
-                    <em>ACM International Conference on Multimedia (MM 2022) 
+                    <em>ACM International Conference on Multimedia (MM 2022)</em>
                     <br>
-                    </em><i style="color:#e74d3c">Accepted, waiting for publication.</i>
+                    <i style="color:#e74d3c">Accepted, waiting for publication.</i>
                     </td>
                </tr>  
                     </tbody>
