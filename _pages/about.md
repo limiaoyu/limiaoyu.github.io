@@ -56,7 +56,7 @@ ________________________________________________________________________________
                 </tr>
 	          <tr>
                     <td width="40%">
-                        <img width="320" src="../images/WS3.jpg" border="0">
+                        <img width="320" src="../images/SSE-xMUDA.jpg" border="0">
                             </td>
                     <td>
 	                    <b>SSE-xMUDA: Self-supervised Exclusive Learning for 3D Segmentation in Cross-Modal Unsupervised Domain Adaptation </b>
