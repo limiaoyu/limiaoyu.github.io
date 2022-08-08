@@ -19,7 +19,6 @@ ________________________________________________________________________________
 <h3>
   <a name="Publications"></a> Selected Publications
 </h3>
-[Please visit [my google scholar profile](https://scholar.google.com/citations?user=a-I8c8EAAAAJ&hl=en) for the full publication list.]
  <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
@@ -65,27 +64,29 @@ ________________________________________________________________________________
 	                    <br>
 	                    <em>ACM International Conference on Multimedia (MM 2022) 
 	                    <br>
-			                </em><i style="color:#e74d3c">Accept</i>
+			    </em><i style="color:#e74d3c">Accepted, waiting for publication</i>
                     </td>
                 </tr>
-			  <tr>
+	        <tr>
                     <td width="40%">
                         <img width="320" src="../images/dual-cross.jpg" border="0">
                             </td>
                     <td>
-                        <b>Cross-Domain and Cross-Modal Knowledge Distillation in Domain Adaptation for 3D Semantic Segmentation</b>
+                            <b>Cross-Domain and Cross-Modal Knowledge Distillation in Domain Adaptation for 3D Semantic Segmentation</b>
 	                    <br>
 	                    Miaoyu Li*,<strong>Yachao Zhang*</strong>,Miaoyu Li, Yuan Xie, Zhizhong Zhang, Cuihua Li, Yanyun Qu. 
-                       (* indicates equal contribution)
+			    <br>
+                            (* indicates equal contribution)
 	                    <br>
 	                    <em>ACM International Conference on Multimedia (MM 2022) 
 	                    <br>
-			                </em><i style="color:#e74d3c">Accept</i>
+			    </em><i style="color:#e74d3c">Accepted, waiting for publication.</i>
                     </td>
                </tr>  
             	</tbody>
             </table>
 </font>
+[Please visit [my google scholar profile](https://scholar.google.com/citations?user=a-I8c8EAAAAJ&hl=en) for the full publication list.]
 
 _______________________________________________________________________________________________________
 
