@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yachao Zhang's Homepage"
+title: "Yachao Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,7 +20,8 @@ ________________________________________________________________________________
 <h3>
   <a name="Publications"></a> Selected Publications
 </h3>
- <font face="helvetica, ariel, &#39;sans serif&#39;">
+
+<font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
             <tr>
@@ -38,52 +39,21 @@ ________________________________________________________________________________
                       [<a href="https://github.com/Yachao-Zhang/PSD">Code</a>]
                     </td>
            </tr>
-	          <tr>
+	    <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/WS3.jpg" border="0">
                             </td>
                     <td>
-	                    <b>Weakly supervised semantic segmentation for large-scale point cloud </b>
-	                    <br>
-	                    <strong>Yachao Zhang</strong>, Zonghao Li, Yuan Xie, Yanyun Qu, Cuihua Li, Tao Mei. 
-	                    <br>
-	                    <em>Thirty-Fifth AAAI Conference on Artificial Intelligence, 2021(AAAI 2021)</em>
-	                    <br>
-			    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16455">Paper</a>]
-			    [<a href="https://github.com/Yachao-Zhang/WS3">Code</a>]
-			    [<a href="https://www.youtube.com/watch?v=i5X1L1_03Rs">Video</a>]
+	                  <b>Weakly supervised semantic segmentation for large-scale point cloud </b>
+	                  <br>
+	                  <strong>Yachao Zhang</strong>, Zonghao Li, Yuan Xie, Yanyun Qu, Cuihua Li, Tao Mei. 
+	                  <br>
+	                  <em>Thirty-Fifth AAAI Conference on Artificial Intelligence, 2021(AAAI 2021)</em>
+	                  <br>
+			  [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16455">Paper</a>]
+			  [<a href="https://github.com/Yachao-Zhang/WS3">Code</a>]
                     </td>
                 </tr>
-	          <tr>
-                    <td width="40%">
-                        <img width="320" src="../images/SSE-xMUDA.jpg" border="0">
-                            </td>
-                    <td>
-	                    <b>SSE-xMUDA: Self-supervised Exclusive Learning for 3D Segmentation in Cross-Modal Unsupervised Domain Adaptation </b>
-	                    <br>
-	                    <strong>Yachao Zhang</strong>,Yuan Xie, Zhizhong Zhang, Cuihua Li, Yanyun Qu.
-	                    <br>
-	                    <em>ACM International Conference on Multimedia (MM 2022) 
-	                    <br>
-			    </em><i style="color:#e74d3c">Accepted, waiting for publication</i>
-                    </td>
-                </tr>
-	        <tr>
-                    <td width="40%">
-                        <img width="320" src="../images/dual-cross.jpg" border="0">
-                            </td>
-                    <td>
-                            <b>Cross-Domain and Cross-Modal Knowledge Distillation in Domain Adaptation for 3D Semantic Segmentation</b>
-	                    <br>
-	                    Miaoyu Li*,<strong>Yachao Zhang*</strong>,Miaoyu Li, Yuan Xie, Zhizhong Zhang, Cuihua Li, Yanyun Qu. 
-			    <br>
-                            (* indicates equal contribution)
-	                    <br>
-	                    <em>ACM International Conference on Multimedia (MM 2022) 
-	                    <br>
-			    </em><i style="color:#e74d3c">Accepted, waiting for publication.</i>
-                    </td>
-               </tr>  
             	</tbody>
             </table>
 </font>
