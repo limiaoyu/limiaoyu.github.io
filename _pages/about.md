@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yachao Zhang's academic personal websites"
+title: "Yachao Zhang's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,6 @@ I am looking for a postdoctoral position about in **Computer Vision or related f
 My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision and point cloud semantic segmentation. (2) **Machine Learning**: weakly-supervised learning, unsupervised learning, and transfer learning. If you are interested in my research or have any use cases that you want to share, feel free to contact me!
 
 I did my Ph.D. from September 2018 to June 2021 at the School of Informatics, in Xiamen University, supervised by Professor Cuihua Li(李翠华教授) and co-supervised by Professor Yanyun Qu(曲延云教授). 
-_______________________________________________________________________________________________________
 _______________________________________________________________________________________________________
 
 <h3>
