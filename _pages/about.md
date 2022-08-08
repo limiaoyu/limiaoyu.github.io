@@ -107,16 +107,16 @@ ________________________________________________________________________________
   <a name="services"></a> Hobby
 </h3>
 <div class="mini">
- <td width="20%">
+ <td width="30%">
  <img width="60" src="../images/ball.jpg" border="0">
 </td>
-   <td width="20%">
+   <td width="30%">
  <img width="60" src="../images/reading.jpg" border="0">
 </td>
-   <td width="20%">
+   <td width="30%">
  <img width="60" src="../images/riding.jpg" border="0">
 </td>
-   <td width="20%">
+   <td width="30%">
  <img width="60" src="../images/tubu.jpg" border="0">
 </td>
 </div>
