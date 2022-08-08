@@ -54,6 +54,36 @@ ________________________________________________________________________________
 			  [<a href="https://github.com/Yachao-Zhang/WS3">Code</a>]
                     </td>
                 </tr>
+	          <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/SSE-xMUDA.jpg" border="0">
+                            </td>
+                    <td>
+	                    <b>SSE-xMUDA: Self-supervised Exclusive Learning for 3D Segmentation in Cross-Modal Unsupervised Domain Adaptation </b>
+	                    <br>
+	                    <strong>Yachao Zhang</strong>,Yuan Xie, Zhizhong Zhang, Cuihua Li, Yanyun Qu.
+	                    <br>
+	                    <em>ACM International Conference on Multimedia (MM 2022) 
+	                    <br>
+			    </em><i style="color:#e74d3c">Accepted, waiting for publication</i>
+                    </td>
+                </tr>
+	        <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/dual-cross.jpg" border="0">
+                            </td>
+                    <td>
+                            <b>Cross-Domain and Cross-Modal Knowledge Distillation in Domain Adaptation for 3D Semantic Segmentation</b>
+	                    <br>
+	                    Miaoyu Li*,<strong>Yachao Zhang*</strong>,Miaoyu Li, Yuan Xie, Zhizhong Zhang, Cuihua Li, Yanyun Qu. 
+			    <br>
+                            (* indicates equal contribution)
+	                    <br>
+	                    <em>ACM International Conference on Multimedia (MM 2022) 
+	                    <br>
+			    </em><i style="color:#e74d3c">Accepted, waiting for publication.</i>
+                    </td>
+               </tr>  
             	</tbody>
             </table>
 </font>
