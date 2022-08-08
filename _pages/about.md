@@ -35,9 +35,8 @@ ________________________________________________________________________________
                       <br>
                       <em>IEEE Conference on International Conference on Computer Vision, (ICCV 2021)</i>
                       <br>
-                      [<a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Perturbed_Self-Distillation_Weakly_Supervised_Large-Scale_Point_Cloud_Semantic_Segmentation_ICCV_2021_paper.html">Paper</a>]
-                      [<a href="https://github.com/Yachao-Zhang/PSD">Code</a>]
-                    </td>
+                      [<a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Perturbed_Self-Distillation_Weakly_Supervised_Large-Scale_Point_Cloud_Semantic_Segmentation_ICCV_2021_paper.html">Paper</a>][<a href="https://github.com/Yachao-Zhang/PSD">Code</a>]
+              </td>
            </tr>
            <tr>
                     <td class="noBorder" width="40%">
@@ -50,8 +49,7 @@ ________________________________________________________________________________
                     <br>
                     <em>Thirty-Fifth AAAI Conference on Artificial Intelligence, 2021(AAAI 2021)</em>
                     <br>
-                    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16455">Paper</a>]
-                    [<a href="https://github.com/Yachao-Zhang/WS3">Code</a>]
+                    [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16455">Paper</a>][<a href="https://github.com/Yachao-Zhang/WS3">Code</a>]
                     </td>
              </tr>
              <tr>
