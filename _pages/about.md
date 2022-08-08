@@ -13,7 +13,7 @@ I am looking for a postdoctoral position about in **Computer Vision or related f
 My research interests include, but are not limited to: **Computer Vision**: 3D computer vision, point cloud semantic segmentation. **Machine Learning**: weakly-supervised learning, unsupervised learning, transfer learning.
 If you are interested in my research or have any use cases that you want to share, feel free to contact me!
 
-I did my Ph.D. from September 2018 to June 2021 at the School of Informatics, in Xiamen University, China, supervised by Professor Cuihua Li(李翠华教授) and co-supervised by Professor Yanyun Qu (曲延云教授). 
+I did my Ph.D. from September 2018 to June 2022 at the School of Informatics, in Xiamen University, China, supervised by Professor Cuihua Li(李翠华教授) and co-supervised by Professor Yanyun Qu (曲延云教授). 
 
 _______________________________________________________________________________________________________
 
@@ -99,4 +99,24 @@ ________________________________________________________________________________
   <li> <strong>Conference Reviewer</strong>: CVPR, ICML, NeruIPS, AAAI </li>
   <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Artificial Intelligence</li>
   </ul>
+</div>
+
+_______________________________________________________________________________________________________
+
+<h3>
+  <a name="services"></a> Hobby
+</h3>
+<div class="mini">
+ <td width="20%">
+ <img width="60" src="../images/ball.jpg" border="0">
+</td>
+   <td width="20%">
+ <img width="60" src="../images/reading.jpg" border="0">
+</td>
+   <td width="20%">
+ <img width="60" src="../images/riding.jpg" border="0">
+</td>
+   <td width="20%">
+ <img width="60" src="../images/tubu.jpg" border="0">
+</td>
 </div>
