@@ -76,7 +76,7 @@ ________________________________________________________________________________
                         <b>Cross-Domain and Cross-Modal Knowledge Distillation in Domain Adaptation for 3D Semantic Segmentation</b>
 	                    <br>
 	                    Miaoyu Li*,<strong>Yachao Zhang*</strong>,Miaoyu Li, Yuan Xie, Zhizhong Zhang, Cuihua Li, Yanyun Qu. 
-                       (* Equal contribution)
+                       (* indicates equal contribution)
 	                    <br>
 	                    <em>ACM International Conference on Multimedia (MM 2022) 
 	                    <br>
@@ -98,4 +98,5 @@ ________________________________________________________________________________
   <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Artificial Intelligence</li>
   </ul>
 </div>
+_______________________________________________________________________________________________________
 
