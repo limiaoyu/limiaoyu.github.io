@@ -10,9 +10,10 @@ redirect_from:
 
 I am looking for a postdoctoral position about in **Computer Vision or related fields**. 
 
-My research interests include, but are not limited to: (1) **Computer Vision**: 3D computer vision and point cloud semantic segmentation. (2) **Machine Learning**: weakly-supervised learning, unsupervised learning, and transfer learning. If you are interested in my research or have any use cases that you want to share, feel free to contact me!
+My research interests include, but are not limited to: **Computer Vision**: 3D computer vision, point cloud semantic segmentation. **Machine Learning**: weakly-supervised learning, unsupervised learning, transfer learning.
+If you are interested in my research or have any use cases that you want to share, feel free to contact me!
 
-I did my Ph.D. from September 2018 to June 2021 at the School of Informatics, in Xiamen University, supervised by Professor Cuihua Li(李翠华教授) and co-supervised by Professor Yanyun Qu(曲延云教授). 
+I did my Ph.D. from September 2018 to June 2021 at the School of Informatics, in Xiamen University, China, supervised by Professor Cuihua Li(李翠华教授) and co-supervised by Professor Yanyun Qu (曲延云教授). 
 
 _______________________________________________________________________________________________________
 
@@ -55,7 +56,7 @@ ________________________________________________________________________________
                 </tr>
 	          <tr>
                     <td width="40%">
-                        <img width="320" src="../images/SSE-xMUDA.jpg" border="0">
+                        <img width="320" src="../images/WS3.jpg" border="0">
                             </td>
                     <td>
 	                    <b>SSE-xMUDA: Self-supervised Exclusive Learning for 3D Segmentation in Cross-Modal Unsupervised Domain Adaptation </b>
@@ -86,6 +87,8 @@ ________________________________________________________________________________
             	</tbody>
             </table>
 </font>
+
+
 [Please visit [my google scholar profile](https://scholar.google.com/citations?user=a-I8c8EAAAAJ&hl=en) for the full publication list.]
 
 _______________________________________________________________________________________________________
