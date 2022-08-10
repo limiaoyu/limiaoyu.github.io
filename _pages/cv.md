@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<center><embed src="../images/cv.pdf" width="850" height="600"></center>
 
-<img width="320" src="../images/PSD.jpg" border="0">
 
 Education
 ======
