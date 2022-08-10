@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="[http://yoursite.com/the.pdf](https://github.com/Yachao-Zhang/CAA/blob/main/Yachao%20Zhang-XiamenUniversity-Doctor-ComputerScience.pdf)" type="application/pdf" width="700px" height="700px">
+    <embed src="[http://yoursite.com/the.pdf](https://github.com/Yachao-Zhang/CAA/blob/main/Yachao%20Zhang-XiamenUniversity-Doctor-ComputerScience.pdf)">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="[http://yoursite.com/the.pdf](https://github.com/Yachao-Zhang/CAA/blob/main/Yachao%20Zhang-XiamenUniversity-Doctor-ComputerScience.pdf)">Download PDF</a>.</p>
+    </embed>
+</object>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
