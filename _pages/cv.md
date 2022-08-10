@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<center><embed src="../images/cv.pdf" width="850" height="600"></center>
+<center><embed src="../images/cv.pdf" width="850" height="1200"></center>
 
 <!-- 
 Education
