@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am looking for a postdoctoral position about in **Computer Vision or related fields**. 
+%I am looking for a postdoctoral position about in **Computer Vision or related fields**. 
 
 My research interests include, but are not limited to: **Computer Vision**: 3D computer vision, point cloud semantic segmentation. **Machine Learning**: weakly-supervised learning, unsupervised learning, transfer learning.
 If you are interested in my research or have any use cases that you want to share, feel free to contact me!
@@ -78,6 +78,22 @@ ________________________________________________________________________________
                             (* indicates equal contribution)
                     <br>
                     <em>ACM International Conference on Multimedia (MM 2022)</em>
+                    <br>
+                    <i style="color:#e74d3c">Accepted, waiting for publication.</i>
+                    </td>
+               </tr>
+                    <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/all-in.jpg" border="0">
+                            </td>
+                    <td>
+                            <b>Learning All-In Collaborative Multi-View Binary Representation for Clustering</b>
+                    <br>
+                    <strong>Yachao Zhang*</strong>, Yuan Xie*, Zongze Wu, Cuihua Li, Yanyun Qu. 
+                    <br>
+                            (* indicates equal contribution)
+                    <br>
+                    <em>Transactions on Neural Networks and Learning Systems</em>
                     <br>
                     <i style="color:#e74d3c">Accepted, waiting for publication.</i>
                     </td>
