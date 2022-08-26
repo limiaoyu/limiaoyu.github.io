@@ -20,7 +20,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>[Aug 2022]</strong> One paper about binary multi-view cluster is accepted by TNNLE 2022!</li>
+  <li> <strong>[Aug 2022]</strong> One paper about binary multi-view cluster is accepted by TNNLS 2022!</li>
   <li> <strong>[Jul 2022]</strong> Two papers about multi-modal unsupervised domain adaptation semantic segmentation are accepted by ACMMM 2022!</li>
   <li> <strong>[Jun 2022]</strong> I am the winner of the title of "Outstanding Graduate" of Xiamen University！</li>
   <li> <strong>[Jun 2022]</strong> I successfully defended my PhD thesis!</li>
