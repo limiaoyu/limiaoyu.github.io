@@ -82,7 +82,7 @@ ________________________________________________________________________________
                </tr>
                     <tr>
                     <td width="40%">
-                        <img width="320" src="../images/all-in.jpg" border="0">
+                        <img width="320" src="../images/all-in.png" border="0">
                             </td>
                     <td>
                             <b>Learning All-In Collaborative Multi-View Binary Representation for Clustering</b>
