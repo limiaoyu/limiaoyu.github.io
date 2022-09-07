@@ -18,7 +18,7 @@ ________________________________________________________________________________
 <h3>
   <a name="news"></a> News
 </h3>
-<div class="small">
+<div class="dd">
   <ul>
   <li> <strong>[Aug 2022]</strong> One paper about binary multi-view cluster is accepted by TNNLS!</li>
   <li> <strong>[Jul 2022]</strong> Two papers about multi-modal unsupervised domain adaptation semantic segmentation are accepted by ACMMM 2022!</li>
