@@ -18,15 +18,15 @@ ________________________________________________________________________________
 <h3>
   <a name="news"></a> News
 </h3>
-<div class="mini">
+<div class="small">
   <ul>
   <li> <strong>[Aug 2022]</strong> One paper about binary multi-view cluster is accepted by TNNLS 2022!</li>
   <li> <strong>[Jul 2022]</strong> Two papers about multi-modal unsupervised domain adaptation semantic segmentation are accepted by ACMMM 2022!</li>
-  <li> <strong>[Jun 2022]</strong> I am the winner of the title of "Outstanding Graduate" of Xiamen University！</li>
+  <li> <strong>[Jun 2022]</strong> I am the winner of the title of "Outstanding Graduate" of Xiamen University!</li>
   <li> <strong>[Jun 2022]</strong> I successfully defended my PhD thesis!</li>
-  <li> <strong>[Mar 2022]</strong> I am the winner of Xiamen University Liu Yubin Youth Science and Technology Scholarship 
-  <li> <strong>[Nov 2021]</strong> I am the winner of the title of "Outstanding Student" of Xiamen University！</li>
-  <li> <strong>[Dec 2021]</strong> I am the winner of the first prize of the 2021 Excellent Paper Award of Fujian Computer Society！</li>
+  <li> <strong>[Mar 2022]</strong> I am the winner of Xiamen University Liu Yubin Youth Science and Technology Scholarship!</li>
+  <li> <strong>[Nov 2021]</strong> I am the winner of the title of "Outstanding Student" of Xiamen University!</li>
+  <li> <strong>[Dec 2021]</strong> I am the winner of the first prize of the 2021 Excellent Paper Award of Fujian Computer Society!</li>
   <li> <strong>[Jul 2021]</strong> One paper about weakly-supervised point cloud  semantic segmentation is accepted by ICCV 2021!</li>
   <li> <strong>[Mar 2021]</strong> One paper about PolSAR Image Classification is accepted by Remote Sensing!</li>
   <li> <strong>[Dec 2020]</strong> One paper about weakly-supervised large scale point cloud semantic segmentation is accepted by AAAI 2021!</li>
