@@ -12,7 +12,7 @@ My research interests include, but are not limited to: **Computer Vision** (3D c
 If you are interested in my research or have any use cases that you want to share, feel free to contact me!
 
 I did my Ph.D. from September 2018 to June 2022 at the School of Informatics, in Xiamen University, China, supervised by Professor Cuihua Li(李翠华教授) and co-supervised by Professor Yanyun Qu (曲延云教授). 
-
+ 
 
 _______________________________________________________________________________________________________
 <h3>
@@ -120,7 +120,7 @@ ________________________________________________________________________________
                     <br>
                     <em>Transactions on Neural Networks and Learning Systems</em>
                     <br>
-                    <i style="color:#e74d3c">Accepted, waiting for publication.</i>
+                    [<a href="https://ieeexplore.ieee.org/document/9882008/">Paper</a>][<a href="https://github.com/Yachao-Zhang/All_In_Learning">Code</a>]
                     </td>
                </tr>  
                     </tbody>
