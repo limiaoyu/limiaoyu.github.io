@@ -112,7 +112,7 @@ ________________________________________________________________________________
                         <img width="320" src="../images/all-in.png" border="0">
                             </td>
                     <td>
-                            <b>Learning All-In Collaborative Multi-View Binary Representation for Clustering</b>
+                            <b>Learning All-In Collaborative Multiview Binary Representation for Clustering</b>
                     <br>
                     <strong>Yachao Zhang*</strong>, Yuan Xie*, Zongze Wu, Cuihua Li, Yanyun Qu. 
                     <br>
