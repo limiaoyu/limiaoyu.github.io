@@ -88,7 +88,7 @@ ________________________________________________________________________________
                     <br>
                     <em>ACM International Conference on Multimedia (MM 2022)</em>
                     <br>
-                    <i style="color:#e74d3c">Accepted, waiting for publication</i>
+                    [<a href="https://doi.org/10.1145/3503161.3547987">Paper</a>][<a href="https://github.com/Yachao-Zhang/SSE-xMUDA">Code</a>]
                     </td>
                 </tr>
                     <tr>
@@ -104,7 +104,7 @@ ________________________________________________________________________________
                     <br>
                     <em>ACM International Conference on Multimedia (MM 2022)</em>
                     <br>
-                    <i style="color:#e74d3c">Accepted, waiting for publication.</i>
+                   [<a href="https://dl.acm.org/doi/10.1145/3503161.3547990">Paper</a>][<a href="https://github.com/Yachao-Zhang/Dual-Cross">Code</a>]
                     </td>
                </tr>
                     <tr>
@@ -141,7 +141,7 @@ ________________________________________________________________________________
   <li> <strong>Journal Reviewer</strong>: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Artificial Intelligence</li>
   </ul>
 </div>
-
+ 
 _______________________________________________________________________________________________________
 
 <h3>
