@@ -11,7 +11,7 @@ redirect_from:
 My research interests include, but are not limited to: **Computer Vision** (3D computer vision, point cloud semantic segmentation), **Machine Learning** (weakly-supervised learning, unsupervised learning, transfer learning).
 If you are interested in my research or have any use cases that you want to share, feel free to contact me!
 
-I did my Ph.D. from September 2018 to June 2022 at the School of Informatics, in Xiamen University, China, supervised by Professor Cuihua Li(李翠华教授) and co-supervised by Professor Yanyun Qu (曲延云教授). 
+I am a postdoctoral researcher at Intelligent Computing Lab, SIGS of Tsinghua University, working with Prof. Xiu Li(李秀教授). Previously, I did my Ph.D. from September 2018 to June 2022 at the School of Informatics, in Xiamen University, China, supervised by Professor Cuihua Li(李翠华教授) and co-supervised by Professor Yanyun Qu (曲延云教授). 
  
 
 _______________________________________________________________________________________________________
