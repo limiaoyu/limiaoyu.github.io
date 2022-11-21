@@ -125,7 +125,7 @@ ________________________________________________________________________________
                </tr>  
                     <tr>
                     <td width="40%">
-                        <img width="320" src="../images/all-in.png" border="0">
+                        <img width="320" src="../images/DoubleConsistency.png" border="0">
                             </td>
                     <td>
                             <b>Weakly Supervised 3D Segmentation via Receptive-driven Pseudo Label Consistency and Structural Consistency</b>
