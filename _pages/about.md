@@ -123,6 +123,22 @@ ________________________________________________________________________________
                     [<a href="https://ieeexplore.ieee.org/document/9882008/">Paper</a>][<a href="https://github.com/Yachao-Zhang/All_In_Learning">Code</a>]
                     </td>
                </tr>  
+                    <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/all-in.png" border="0">
+                            </td>
+                    <td>
+                            <b>Weakly Supervised 3D Segmentation via Receptive-driven Pseudo Label Consistency and Structural Consistency</b>
+                    <br>
+                    <strong>Yuxiang Lan, Yachao Zhang*</strong>, Yanyun Qu, Cong Wang, Yuan Xie, Zongze Wu. 
+                    <br>
+                            (* indicates equal contribution)
+                    <br>
+                    <em>Thirty-Seventh AAAI Conference on Artificial Intelligence, 2023(AAAI 2023)</em>
+                    <br>
+                    [<a Paper available soon</a>][<a href="https://github.com/Yachao-Zhang/DoubleConsistency">Code</a>]
+                    </td>
+               </tr>
                     </tbody>
            </table>
 </font>
