@@ -18,7 +18,8 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
-  <li> <strong>[Nov 2022]</strong> One paper about weakly-supervised point cloud semantic segmentation is accepted by AAAI2023!</li>
+  <li> <strong>[Nov 2022]</strong> One paper about long-tailed learning is accepted by ICASSP 2023!</li>
+  <li> <strong>[Nov 2022]</strong> One paper about weakly-supervised point cloud semantic segmentation is accepted by AAAI 2023!</li>
   <li> <strong>[Aug 2022]</strong> One paper about binary multi-view cluster is accepted by TNNLS!</li>
   <li> <strong>[Jul 2022]</strong> Two papers about multi-modal unsupervised domain adaptation semantic segmentation are accepted by ACMMM 2022!</li>
   <li> <strong>[Jun 2022]</strong> I am the winner of the title of "Outstanding Graduate" of Xiamen University!</li>
@@ -83,7 +84,7 @@ ________________________________________________________________________________
                     <td>
                     <b>SSE-xMUDA: Self-supervised Exclusive Learning for 3D Segmentation in Cross-Modal Unsupervised Domain Adaptation </b>
                     <br>
-                    <strong>Yachao Zhang</strong>,Yuan Xie, Zhizhong Zhang, Cuihua Li, Yanyun Qu.
+                    <strong>Yachao Zhang</strong>,Miaoyu Li, Yuan Xie, Zhizhong Zhang, Cuihua Li, Yanyun Qu.
                     <br>
                     <em>ACM International Conference on Multimedia (MM 2022)</em>
                     <br>
