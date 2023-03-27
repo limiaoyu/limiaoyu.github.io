@@ -18,6 +18,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Mar 2023]</strong> One paper about camouflaged object detection is accepted by CVPR 2023!</li>
   <li> <strong>[Feb 2023]</strong> One paper about long-tailed learning is accepted by ICASSP 2023!</li>
   <li> <strong>[Nov 2022]</strong> One paper about weakly-supervised point cloud semantic segmentation is accepted by AAAI 2023!</li>
   <li> <strong>[Aug 2022]</strong> One paper about binary multi-view cluster is accepted by TNNLS!</li>
