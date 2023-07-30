@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yachao Zhang"
+title                    : "Miaoyu Li"
 title_separator          : "-"
-name                     : &name "Yachao Zhang"
+name                     : &name "Miaoyu Li"
 description              : &description "personal description"
-url                      : https://Yachao-Zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://limiaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Yachao-Zhang/Yachao-Zhang.github.io"
+repository               : "limiaoyu/limiaoyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yachao Zhang"
+  name             : "Miaoyu Li"
   avatar           : "profile.jpg"
   #bio              : "Assistant Professor, Singapore University of Technology and Design"
-  location         : "SIGS of Tsinghua University"
+  location         : "RoboSense Technology Co."
   employer         :
  # pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=a-I8c8EAAAAJ&hl=zh-CN"
-  email            : yachaozhang@std.xmu.edu.cn
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tm9WjJwAAAAJ"
+  email            : limiaoyudd@163.com
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Yachao-Zhang"
+  github           : "limiaoyu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-6153-5004"
+  linkedin         : "www.linkedin.com/in/limiaoyu"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
