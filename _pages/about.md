@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yachao Zhang(张亚超)"
+title: "Miaoyu Li(李杪宇)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at Intelligent Computing Lab, SIGS of Tsinghua University, working with Prof. Xiu Li(李秀教授). Previously, I did my Ph.D. from September 2018 to June 2022 at the School of Informatics, in Xiamen University, China, supervised by Professor Cuihua Li(李翠华教授) and co-supervised by Professor Yanyun Qu (曲延云教授). 
+I am an autonomous driving perception algorithm engineer at RoboSense, a leading LiDAR company in China. Prior to this role, I completed my Master's degree in Computer Science at Xiamen University from September 2020 to June 2023, under the guidance of Professor Cuihua Li and Professor Yanyun Qu. Moreover, I gained valuable industry experience through an internship at Bosch Cross-Domain Computing Solutions Division from May 2022 to August 2022.
 
 My research interests include, but are not limited to: **Computer Vision** (3D computer vision, point cloud semantic segmentation), **Machine Learning** (weakly-supervised learning, unsupervised learning, transfer learning). Recently, I also focus on digital human avatar, including 3D human pose reconstruction, multimodality-driven 3D human motion generation. If you are interested in my research or have any use cases that you want to share, feel free to contact me!
 
