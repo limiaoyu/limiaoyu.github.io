@@ -12,6 +12,14 @@ I am an autonomous driving perception algorithm engineer at RoboSense, a leading
 
 My research interests include, but are not limited to: **Computer Vision** (3D computer vision, multi-modal fusion, point cloud semantic segmentation), **Machine Learning** (transfer learning, unsupervised learning). My research is dedicated to endowing robots with perception capabilities that surpass human abilities. If you are interested in my research or have any collaboration opportunities, please feel free to contact me at any time!
 
+<style>
+table, th, td {
+  border: none;
+  border-collapse: collapse;
+}
+</style>
+
+_______________________________________________________________________________________________________
 <h3>
   <a name="news"></a> News
 </h3>
