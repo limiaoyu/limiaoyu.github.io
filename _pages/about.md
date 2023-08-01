@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an autonomous driving perception algorithm engineer at RoboSense, a leading LiDAR company in China. Prior to this role, I completed my Master's degree in Computer Science at Xiamen University from September 2020 to June 2023, under the guidance of Professor Cuihua Li and Professor Yanyun Qu. Moreover, I gained valuable industry experience through an internship at Bosch Cross-Domain Computing Solutions Division from May 2022 to August 2022.
+I am an autonomous driving perception algorithm engineer at RoboSense, a leading LiDAR company in China. Prior to this role, I completed my Master's degree in Computer Science at Xiamen University from September 2020 to June 2023, under the guidance of Professor Cuihua Li and Professor Yanyun Qu. Moreover, I gained valuable industry experience through an internship at Bosch Cross-Domain Computing Solutions division from May 2022 to August 2022.
 
 My research interests include, but are not limited to: **Computer Vision** (3D computer vision, multi-modal fusion, point cloud semantic segmentation), **Machine Learning** (transfer learning, unsupervised learning). My research is dedicated to enabling robots to have perception capabilities superior to humans. If you are interested in my research or have any collaboration opportunities, please feel free to contact me at any time!
 
