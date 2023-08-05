@@ -48,6 +48,20 @@ ________________________________________________________________________________
 <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+             <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/BEV-DG.png" border="0">
+                            </td>
+                    <td>
+                            <b>BEV-DG: Cross-Modal Learning under Bird’s-Eye View for Domain Generalization of 3D Semantic Segmentation</b>
+                    <br>
+                    <strong>Miaoyu Li</strong>, Yachao Zhang, Xu Ma, Yanyun Qu, Yun Fu.
+                    <br>
+                    <em>IEEE/CVF International Conference on Computer Vision (ICCV 2023)</em>
+                    <br>
+                   [<a href="">Paper</a>]]
+                    </td>
+               </tr>
               <tr>
                     <td width="40%">
                         <img width="320" src="../images/dual-cross.jpg" border="0">
