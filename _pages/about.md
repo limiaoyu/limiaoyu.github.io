@@ -59,7 +59,7 @@ ________________________________________________________________________________
                     <br>
                     <em>IEEE/CVF International Conference on Computer Vision (ICCV 2023)</em>
                     <br>
-                   [<a href="">Paper</a>]]
+                   [Paper</a>]
                     </td>
                </tr>
               <tr>
