@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an autonomous driving perception algorithm engineer at RoboSense, a leading LiDAR company in China. Prior to this role, I completed my Master's degree in Computer Science at Xiamen University from September 2020 to June 2023, under the guidance of Professor Cuihua Li and Professor Yanyun Qu. 
+I work as an autonomous driving perception algorithm engineer at RoboSense, a prominent LiDAR company in China. Before taking on this role, I earned my Master's degree in Computer Science from Xiamen University, where I studied under the guidance of Prof. Cuihua Li and Prof. Yanyun Qu, from September 2020 to June 2023. Prior to that, I obtained a Bachelor's degree in Computer Science from Xi'an University of Posts and Telecommunications.
 
-My research interests include, but are not limited to: **Computer Vision** (3D computer vision, multi-modal fusion, point cloud semantic segmentation), **Machine Learning** (transfer learning, unsupervised learning). If you are interested in my research or have any collaboration opportunities, please feel free to contact me!
-
+My research interests include, but are not limited to: **Computer Vision** (3D computer vision, multi-modal fusion, point cloud semantic segmentation), **Machine Learning** (transfer learning, unsupervised learning). 
 <style>
 table, th, td {
   border: none;
@@ -29,6 +28,7 @@ ________________________________________________________________________________
   <li> <strong>[Apr 2023]</strong> I become a reviewer for ACMMM 2023!</li>
   <li> <strong>[Mar 2023]</strong> I am the winner of Xiamen University Pan Maoyuan First-Class Scholarship!</li>
   <li> <strong>[Jul 2022]</strong> Two papers about multi-modal unsupervised domain adaptation semantic segmentation are accepted by ACMMM 2022!</li>
+  <li> <strong>[May 2022]</strong> I start my internship at Bosch as a LiDAR Perception Algorithm Intern.</li>
   </ul>
 </div>
 
@@ -59,7 +59,7 @@ ________________________________________________________________________________
                     <br>
                     <em>IEEE/CVF International Conference on Computer Vision (ICCV 2023)</em>
                     <br>
-                   [Paper</a>]
+                   [Paper]
                     </td>
                </tr>
               <tr>
