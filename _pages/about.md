@@ -28,7 +28,7 @@ ________________________________________________________________________________
   <li> <strong>[Apr 2023]</strong> I become a reviewer for ACMMM 2023!</li>
   <li> <strong>[Mar 2023]</strong> I am the winner of Xiamen University Pan Maoyuan First-Class Scholarship!</li>
   <li> <strong>[Jul 2022]</strong> Two papers about multi-modal unsupervised domain adaptation semantic segmentation are accepted by ACMMM 2022!</li>
-  <li> <strong>[May 2022]</strong> I start my internship at Bosch as a LiDAR Perception Algorithm Intern.</li>
+  <li> <strong>[May 2022]</strong> I start my internship at Bosch as a LiDAR Perception Algorithm Intern!</li>
   </ul>
 </div>
 
