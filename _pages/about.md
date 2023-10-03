@@ -95,4 +95,6 @@ ________________________________________________________________________________
                     </tbody>
            </table>
 </font>
+_______________________________________________________________________________________________________
 
+<a href="https://clustrmaps.com/site/1bwsa"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=B-6GcFPiYKsMk25POYolqd3NrGqJ0XX_JiS6bDCR4N0&cl=ffffff" /></a>
