@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I work as an autonomous driving perception algorithm engineer at RoboSense, a prominent LiDAR company in China. Before taking on this role, I earned my Master's degree in Computer Science from Xiamen University, where I studied under the guidance of Prof. Cuihua Li and Prof. Yanyun Qu, from September 2020 to June 2023. Prior to that, I obtained a Bachelor's degree in Computer Science from Xi'an University of Posts and Telecommunications.
+I am a Ph.D. student in the College of Computing and Data Science at Nanyang Technological University, advised by Prof. <a href="http://www.boyangli.org/">Boyang Li</a>. I earned my Master's degree in Computer Science from Xiamen University, where I studied under the guidance of Prof. Cuihua Li and Prof. Yanyun Qu. Prior to that, I obtained a Bachelor's degree in Computer Science from Xi'an University of Posts and Telecommunications.
 
-My research interests include, but are not limited to: **Computer Vision** (3D computer vision, multi-modal fusion, point cloud semantic segmentation), **Machine Learning** (transfer learning, unsupervised learning). 
+My research interests include, but are not limited to: **Multi-modal Learning** (large language models and vision-language models), **Computer Vision** (3D computer vision, point cloud semantic segmentation). 
 <style>
 table, th, td {
   border: none;
