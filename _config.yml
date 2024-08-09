@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Miaoyu Li"
   avatar           : "profile1.jpg"
-  #bio              : "Assistant Professor, Singapore University of Technology and Design"
-  location         : "Nanyang Technological University"
+  bio              : "Nanyang Technological University"
+  location         : "Singapore"
   employer         :
  # pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tm9WjJwAAAAJ"
