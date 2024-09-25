@@ -26,8 +26,7 @@ ________________________________________________________________________________
   <ul>
   <li> <strong>[Sep 2024]</strong> One paper about zero-shot knowledge-based visual question answering is accepted by EMNLP 2024!</li>
   <li> <strong>[Jul 2023]</strong> One paper about multi-modal domain generalized semantic segmentation is accepted by ICCV 2023!</li>
-  <li> <strong>[Apr 2023]</strong> I become a reviewer for ACMMM 2023!</li>
-  <li> <strong>[Mar 2023]</strong> I am the winner of Xiamen University Pan Maoyuan First-Class Scholarship!</li>
+  <li> <strong>[Mar 2023]</strong> I am the winner of Xiamen University Pan Maoyuan First-Class Scholarship (One slot per year university-wide)!</li>
   <li> <strong>[Jul 2022]</strong> Two papers about multi-modal unsupervised domain adaptation semantic segmentation are accepted by ACMMM 2022!</li>
   <li> <strong>[May 2022]</strong> I start my internship at Bosch as a LiDAR Perception Algorithm Intern!</li>
   </ul>
