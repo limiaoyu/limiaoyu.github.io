@@ -24,6 +24,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Sep 2024]</strong> One paper about zero-shot knowledge-based visual question answering is accepted by EMNLP 2024!</li>
   <li> <strong>[Jul 2023]</strong> One paper about multi-modal domain generalized semantic segmentation is accepted by ICCV 2023!</li>
   <li> <strong>[Apr 2023]</strong> I become a reviewer for ACMMM 2023!</li>
   <li> <strong>[Mar 2023]</strong> I am the winner of Xiamen University Pan Maoyuan First-Class Scholarship!</li>
@@ -48,6 +49,20 @@ ________________________________________________________________________________
 <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+             <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/REACT.jpg" border="0">
+                            </td>
+                    <td>
+                            <b>Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA</b>
+                    <br>
+                    <strong>Miaoyu Li</strong>, Haoxin Li, Zilin Du, Boyang Li.
+                    <br>
+                    <em>Findings of the Association for Computational Linguistics: EMNLP 2024</em>
+                    <br>
+                   [<a href="https://arxiv.org/pdf/2406.12746">Paper</a>][<a href="https://github.com/limiaoyu/REACT">Code</a>]
+                    </td>
+               </tr>
              <tr>
                     <td width="40%">
                         <img width="320" src="../images/BEV-DG.png" border="0">
