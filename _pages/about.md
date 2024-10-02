@@ -52,16 +52,16 @@ ________________________________________________________________________________
            <tbody>
              <tr>
                     <td width="40%">
-                        <img width="320" src="../images/REACT.jpg" border="0">
+                        <img width="320" src="../images/DietCoke.jpg" border="0">
                             </td>
                     <td>
-                            <b>Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA</b>
+                            <b>Diversify, Rationalize, and Combine: Ensembling Multiple QA Strategies for Zero-shot Knowledge-based VQA</b>
                     <br>
                     <strong>Miaoyu Li</strong>, Haoxin Li, Zilin Du, Boyang Li.
                     <br>
                     <em>Findings of the Association for Computational Linguistics: EMNLP 2024</em>
                     <br>
-                   [<a href="https://arxiv.org/pdf/2406.12746">Paper</a>][<a href="https://github.com/limiaoyu/REACT">Code</a>]
+                   [<a href="https://arxiv.org/pdf/2406.12746">Paper</a>][<a href="https://github.com/limiaoyu/DietCoke">Code</a>]
                     </td>
                </tr>
              <tr>
