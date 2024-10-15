@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Nanyang Technological University, advised by Prof. <a href="http://www.boyangli.org/">Boyang Li</a>. I earned my Master's degree in Computer Science from Xiamen University, where I studied under the guidance of Prof. Cuihua Li and Prof. Yanyun Qu. Prior to that, I obtained a Bachelor's degree in Computer Science from Xi'an University of Posts and Telecommunications.
+I am a Ph.D. student at Nanyang Technological University, advised by Prof. <a href="http://www.boyangli.org/">Boyang Li</a>. I earned my Master's degree in Computer Science from Xiamen University, where I studied under the guidance of Prof. Cuihua Li and Prof. Yanyun Qu. 
 
 My research interests include, but are not limited to: **Multi-modal Learning** (large language models and vision-language models), **Computer Vision** (3D computer vision, point cloud semantic segmentation). 
 <style>
