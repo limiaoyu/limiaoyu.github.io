@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Nanyang Technological University, advised by Prof. <a href="http://www.boyangli.org/">Boyang Li</a>. I earned my Master's degree in Computer Science from Xiamen University, where I studied under the guidance of Prof. Cuihua Li and Prof. Yanyun Qu. 
+I am a Research Associate at Nanyang Technological University. I earned my Master's degree in Computer Science from Xiamen University, where I studied under the guidance of Prof. Cuihua Li and Prof. Yanyun Qu. 
 
 My research interests include, but are not limited to: **Multi-modal Learning** (large language models and vision-language models), **Computer Vision** (3D computer vision, point cloud semantic segmentation). 
 <style>
@@ -25,7 +25,6 @@ ________________________________________________________________________________
 <div class="mini">
   <ul>
   <li> <strong>[Sep 2024]</strong> One paper about zero-shot knowledge-based visual question answering is accepted by EMNLP 2024!</li>
-  <li> <strong>[Jan 2024]</strong> I start my PhD studies at Nanyang Technological University!</li>
   <li> <strong>[Jul 2023]</strong> One paper about multi-modal domain generalized semantic segmentation is accepted by ICCV 2023!</li>
   <li> <strong>[Jun 2023]</strong> I earn a Master's in Computer Science from Xiamen University and join Robosense as an Autonomous Driving Algorithm Engineer.</li>
   <li> <strong>[Mar 2023]</strong> I am the winner of Xiamen University Pan Maoyuan First-Class Scholarship (One slot per year university-wide)!</li>
