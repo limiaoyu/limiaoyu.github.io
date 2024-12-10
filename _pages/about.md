@@ -58,7 +58,7 @@ ________________________________________________________________________________
                     <br>
                     <strong>Miaoyu Li</strong>, Haoxin Li, Zilin Du, Boyang Li.
                     <br>
-                    <em>Findings of the Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2024)</em>
+                    <em>Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)</em>
                     <br>
                    [<a href="https://arxiv.org/pdf/2406.12746">Paper</a>][<a href="https://github.com/limiaoyu/DietCoke">Code</a>]
                     </td>
