@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate at Nanyang Technological University. I earned my Master's degree in Computer Science from Xiamen University, where I studied under the guidance of Prof. Cuihua Li and Prof. Yanyun Qu. 
+I am a PhD student at Nanyang Technological University. I earned my Master's degree in Computer Science from Xiamen University, where I studied under the guidance of Prof. Cuihua Li and Prof. Yanyun Qu. 
 
 My research interests include, but are not limited to: **Multi-modal Learning** (large language models and vision-language models), **Computer Vision** (3D computer vision, point cloud semantic segmentation). 
 <style>
