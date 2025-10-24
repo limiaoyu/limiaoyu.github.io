@@ -24,6 +24,7 @@ ________________________________________________________________________________
 </h3>
 <div class="mini">
   <ul>
+  <li> <strong>[Sep 2025]</strong> One paper about long-context video understanding is accepted by NeurIPS 2025!</li>
   <li> <strong>[Sep 2024]</strong> One paper about zero-shot knowledge-based visual question answering is accepted by EMNLP 2024!</li>
   <li> <strong>[Jul 2023]</strong> One paper about multi-modal domain generalized semantic segmentation is accepted by ICCV 2023!</li>
   <li> <strong>[Jun 2023]</strong> I earn a Master's in Computer Science from Xiamen University and join Robosense as an Autonomous Driving Algorithm Engineer.</li>
@@ -49,6 +50,22 @@ ________________________________________________________________________________
 <font face="helvetica, ariel, &#39;sans serif&#39;">
         <table cellspacing="0" cellpadding="0" class="noBorder">
            <tbody>
+             <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/Causal2Needles.jpg" border="0">
+                            </td>
+                    <td>
+                            <b>Two Causally Related Needles in a Video Haystack</b>
+                    <br>
+                    <strong>Miaoyu Li</strong>*, Qin Chao*, Boyang Li. 
+                    <br>
+                            (* indicates equal contribution)
+                    <br>
+                    <em>39th Conference on Neural Information Processing Systems (NeurIPS 2025 D&B Track)</em>
+                    <br>
+                   [<a href="https://arxiv.org/pdf/2505.19853">Paper</a>][<a href="https://huggingface.co/datasets/causal2needles/Causal2Needles">Dataset</a>]
+                    </td>
+               </tr>
              <tr>
                     <td width="40%">
                         <img width="320" src="../images/DietCoke.jpg" border="0">
