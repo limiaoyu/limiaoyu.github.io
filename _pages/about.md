@@ -63,7 +63,7 @@ ________________________________________________________________________________
                     <br>
                     <em>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</em>
                     <br>
-                   [<a href="https://arxiv.org/pdf/2505.19853">Paper</a>][<a href="https://huggingface.co/datasets/causal2needles/Causal2Needles">Dataset</a>]
+                   [<a href="https://limiaoyu.github.io/Causal2Needles/">Project</a>][<a href="https://arxiv.org/pdf/2505.19853">Paper</a>][<a href="https://huggingface.co/datasets/causal2needles/Causal2Needles">Dataset</a>]
                     </td>
                </tr>
              <tr>
